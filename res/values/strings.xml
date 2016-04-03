@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, ITMDPLabProject1Activity!</string>
+    <string name="app_name">ITMDPLabProject1</string>
+    <string name="button_label">Press to exit</string>
+    <string name="start_label">Start</string>
+    <string name="stop_label">Stop</string>
+</resources>
